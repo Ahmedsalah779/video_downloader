@@ -1,0 +1,7 @@
+please download all the files in the repositories 
+and set the working directory and you good to go.
+program.py   =====> gui app to the code
+song.py      =====> code without the gui 
+mp4--mp3 converter ===> to change te audio form from mp4 to mp3 
+
+Enjoy : )
